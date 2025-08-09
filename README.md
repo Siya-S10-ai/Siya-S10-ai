@@ -4,7 +4,7 @@
 
 I'm<a href="https://creative-toffee-23be8e.netlify.app/" target="_blank"> Siya </a>, a software engineer student based in South Africa.
 
-- 🌵 I'm currently enrolled into three courses [@CodeAcademy](https://www.codecademy.com/career-center). [Python3](https://www.codecademy.com/enrolled/courses/learn-python-3), [Java](https://www.codecademy.com/enrolled/courses/learn-java), and on a [Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer)Career Path.
+- 🌵 I'm currently enrolled in three courses at [CodeAcademy](https://www.codecademy.com/career-center) namely: [Python3](https://www.codecademy.com/enrolled/courses/learn-python-3), [Java](https://www.codecademy.com/enrolled/courses/learn-java), and the [Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer)Career Path.
 - 🤖 I am fascinated by how technology can impact the world around us. Building projects that bring value to society and users is a long-standing passion that I carry with me wherever I go.
 - 🧭 Natural Language Processing is also a concept that fascinates me and when ever I get the time, I love diving deep to explore [tokenization](https://medium.com/@abdallahashraf90x/tokenization-in-nlp-all-you-need-to-know-45c00cfa2df7) through python.
 
