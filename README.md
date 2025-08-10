@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! 👋
 
 I'm<a href="https://creative-toffee-23be8e.netlify.app/" target="_blank"> Siya </a>, a software engineer student based in South Africa.
