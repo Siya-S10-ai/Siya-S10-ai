@@ -10,7 +10,7 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 
 # Certifications
 
-## ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) IBM
+## <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40"/> IBM
 - [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/9SWINVPCG5SE)
 - [Introduction to HTML, CSS & JavaScript](https://www.coursera.org/account/accomplishments/verify/8WHTIFM2EJGQ)
 - [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/VUFGO8TMZXXL)
