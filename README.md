@@ -8,23 +8,28 @@ I'm<a href="https://siya-s-portfolio-website.netlify.app" target="_blank"> Siya 
 
 I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91) @CodeAcademy. I was exploring OpenAI's API and learnt how to write more effective generative AI prompts that help improve search results.
 
-*Certifications*
-    **IBM**
-      - <a href="https://www.coursera.org/account/accomplishments/verify/9SWINVPCG5SE"> Introduction to Software Engineering </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/8WHTIFM2EJGQ"> Introduction to HTML, CSS & JavaScript </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/VUFGO8TMZXXL"> Getting Started with Git and GitHub </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q"> JavaScript Programming Essentials </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q"> Developing Front-End Apps with React </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q"> Developing Back-End Apps with Node.js & Express </a>
-    **WeThinkCode**
-      - <a href="https://www.linkedin.com/in/siyabonga-nhlapo/overlay/Certifications/1964891533/treasury?profileId=ACoAAD1Zbo0BOrIw0VfRaNPJ3GlmtyVwqJrHc28"> General AI for Software Engineers </a>
-    **SAP**
-      - <a href="https://www.coursera.org/account/accomplishments/verify/39CVMKFEY395"> Understanding the Enterprise Systems Environment </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/UQ010MBPON06"> SAP Customer Engagement and Discovery </a>
-      - <a href="https://www.coursera.org/account/accomplishments/verify/IN0K4MCPRR8P"> Designing an SAP Solution </a>
-    **Codecademy**
-      - <a href="https://www.codecademy.com/profiles/Siya_S10/certificates/fd75291f239d471e81c5a14ff80a27a8"> Introduction to Game Development </a>
-      - <a href="https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91"> Intro to OpenAI API </a>
+# Certifications
+
+## IBM
+- [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/9SWINVPCG5SE)
+- [Introduction to HTML, CSS & JavaScript](https://www.coursera.org/account/accomplishments/verify/8WHTIFM2EJGQ)
+- [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/VUFGO8TMZXXL)
+- [JavaScript Programming Essentials](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
+- [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
+- [Developing Back-End Apps with Node.js & Express](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
+
+## WeThinkCode
+- [General AI for Software Engineers](https://www.linkedin.com/in/siyabonga-nhlapo/overlay/Certifications/1964891533/treasury?profileId=ACoAAD1Zbo0BOrIw0VfRaNPJ3GlmtyVwqJrHc28)
+
+## SAP
+- [Understanding the Enterprise Systems Environment](https://www.coursera.org/account/accomplishments/verify/39CVMKFEY395)
+- [SAP Customer Engagement and Discovery](https://www.coursera.org/account/accomplishments/verify/UQ010MBPON06)
+- [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/IN0K4MCPRR8P)
+
+## Codecademy
+- [Introduction to Game Development](https://www.codecademy.com/profiles/Siya_S10/certificates/fd75291f239d471e81c5a14ff80a27a8)
+- [Intro to OpenAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91)
+
 
 # **Let's connect!**
 
