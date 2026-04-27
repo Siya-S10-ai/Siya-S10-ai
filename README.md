@@ -26,7 +26,7 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 - [SAP Customer Engagement and Discovery](https://www.coursera.org/account/accomplishments/verify/UQ010MBPON06)
 - [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/IN0K4MCPRR8P)
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" width="40"/> Codecademy
+## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" width="70"/> Codecademy
 - [Introduction to Game Development](https://www.codecademy.com/profiles/Siya_S10/certificates/fd75291f239d471e81c5a14ff80a27a8)
 - [Intro to OpenAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91)
 
