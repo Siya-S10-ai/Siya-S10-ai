@@ -19,7 +19,7 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 - [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 - [Developing Back-End Apps with Node.js & Express](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/WeThinkCode_Logo.png" width="40"/> WeThinkCode
+## <img src="https://www.wethinkcode.co.za/wp-content/uploads/2021/06/wethinkcode-logo.png" width="40"/> WeThinkCode
 - [General AI for Software Engineers](https://www.linkedin.com/in/siyabonga-nhlapo/overlay/Certifications/1964891533/treasury?profileId=ACoAAD1Zbo0BOrIw0VfRaNPJ3GlmtyVwqJrHc28)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="40"/> SAP
