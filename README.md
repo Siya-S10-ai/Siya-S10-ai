@@ -18,15 +18,15 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 - [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 - [Developing Back-End Apps with Node.js & Express](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 
-## ![WeThinkCode](https://upload.wikimedia.org/wikipedia/commons/6/6e/WeThinkCode_Logo.png) WeThinkCode
+## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/WeThinkCode_Logo.png" width="40"/> WeThinkCode
 - [General AI for Software Engineers](https://www.linkedin.com/in/siyabonga-nhlapo/overlay/Certifications/1964891533/treasury?profileId=ACoAAD1Zbo0BOrIw0VfRaNPJ3GlmtyVwqJrHc28)
 
-## ![SAP](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg) SAP
+## <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="40"/> SAP
 - [Understanding the Enterprise Systems Environment](https://www.coursera.org/account/accomplishments/verify/39CVMKFEY395)
 - [SAP Customer Engagement and Discovery](https://www.coursera.org/account/accomplishments/verify/UQ010MBPON06)
 - [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/IN0K4MCPRR8P)
 
-## ![Codecademy](https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg) Codecademy
+## <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" width="40"/> Codecademy
 - [Introduction to Game Development](https://www.codecademy.com/profiles/Siya_S10/certificates/fd75291f239d471e81c5a14ff80a27a8)
 - [Intro to OpenAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91)
 
