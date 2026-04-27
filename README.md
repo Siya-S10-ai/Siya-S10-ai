@@ -10,7 +10,7 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 
 # Certifications
 
-## IBM
+## ![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg) IBM
 - [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/9SWINVPCG5SE)
 - [Introduction to HTML, CSS & JavaScript](https://www.coursera.org/account/accomplishments/verify/8WHTIFM2EJGQ)
 - [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/VUFGO8TMZXXL)
@@ -18,15 +18,15 @@ I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/pr
 - [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 - [Developing Back-End Apps with Node.js & Express](https://www.coursera.org/account/accomplishments/verify/VMUA8ZZFRW9Q)
 
-## WeThinkCode
+## ![WeThinkCode](https://upload.wikimedia.org/wikipedia/commons/6/6e/WeThinkCode_Logo.png) WeThinkCode
 - [General AI for Software Engineers](https://www.linkedin.com/in/siyabonga-nhlapo/overlay/Certifications/1964891533/treasury?profileId=ACoAAD1Zbo0BOrIw0VfRaNPJ3GlmtyVwqJrHc28)
 
-## SAP
+## ![SAP](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg) SAP
 - [Understanding the Enterprise Systems Environment](https://www.coursera.org/account/accomplishments/verify/39CVMKFEY395)
 - [SAP Customer Engagement and Discovery](https://www.coursera.org/account/accomplishments/verify/UQ010MBPON06)
 - [Designing an SAP Solution](https://www.coursera.org/account/accomplishments/verify/IN0K4MCPRR8P)
 
-## Codecademy
+## ![Codecademy](https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg) Codecademy
 - [Introduction to Game Development](https://www.codecademy.com/profiles/Siya_S10/certificates/fd75291f239d471e81c5a14ff80a27a8)
 - [Intro to OpenAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91)
 
