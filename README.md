@@ -7,7 +7,7 @@ I'm<a href="https://siya-s-portfolio-website.netlify.app" target="_blank"> Siya 
 - 🧭 Natural Language Processing is also a concept that fascinates me and whenever I get the time, I love diving deep to explore [tokenization](https://medium.com/@abdallahashraf90x/tokenization-in-nlp-all-you-need-to-know-45c00cfa2df7) through python.
 
 I completed a certificate on [Intro to OPENAI API](https://www.codecademy.com/profiles/Siya_S10/certificates/3b2c5de258e6407cae576d66bfef9e91) @CodeAcademy. I was exploring OpenAI's API and learnt how to write more effective generative AI prompts that help improve search results.
-- ⚽ Outside of coding, I play soccer, 🎱 Eight Ball Pool, & I dedicate precious time helping people.
+- ⚽ Outside of hacking🧢, I play soccer, 🎱 Eight Ball Pool, & I dedicate precious time helping people.
 
 # Certifications
 
